@@ -1,4 +1,3 @@
-# dioshopping
 # Boas vindas ao repositório do Projeto Dioshopping!
 Esse projeto teve como objeto criar uma e-comerce de camisas esportivas. Em seu desenvolvimento foram utilizadas ferramentas vistas ao longo de diversos cursos da **Digital Inovation One**. Pude nesse projeto revisar habilidades que me possibilitam criar aplicações web ponta a ponta, passando pelo frontend, backend e banco de dados. 
 
